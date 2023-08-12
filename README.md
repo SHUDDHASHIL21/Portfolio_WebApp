@@ -1,7 +1,7 @@
 ﻿# Portfolio_WebApp
 This project reflects the portfolio website of Shuddhashil Ganguly. Do check out ...
 
-![giphy](https://github.com/SHUDDHASHIL21/Portfolio_WebApp/assets/74821496/20c8debf-5fb8-4c86-a3ce-f337344d2878) 
+# ![giphy](https://github.com/SHUDDHASHIL21/Portfolio_WebApp/assets/74821496/20c8debf-5fb8-4c86-a3ce-f337344d2878) 
 
-# Demo : https://port-folio-baban.netlify.app/
+Demo : https://port-folio-baban.netlify.app/
 
